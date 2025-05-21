@@ -19,7 +19,7 @@
 ## 🥇 Certifications
 <p align="center">
   <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/ISTQB.png" alt="Disha| ISTQB" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/oracle-cp.png" alt="Disha| AWS-CP" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/oracle-ca.png" alt="Disha| AWS-CP" width="100 px"/>
   <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/safe.png" alt="Disha| AWS-SA" width="100 px"/>
   <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/csm.webp" alt="Disha| AWS-SA" width="100 px"/>
 </p>
