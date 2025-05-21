@@ -56,7 +56,7 @@ in test coverage</b>
 
 ## 💻 My Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dishabhatt0204&repo=Linux-Zero-to-Hero)](https://github.com/dishabhatt0204/E2EAPIAutomationFramework_Disha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dishabhatt0204&repo=E2EAPIAutomationFramework_Disha)](https://github.com/dishabhatt0204/E2EAPIAutomationFramework_Disha)
 
 
 [Automated Regression Testing Framework Java](https://github.com/dishabhatt0204/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
