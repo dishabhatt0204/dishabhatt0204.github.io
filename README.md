@@ -4,9 +4,9 @@
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/disha-bbhatt/" target="_blank" rel="noreferrer">Jatin</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/disha-bbhatt/" target="_blank" rel="noreferrer">Disha</a> 👋</h3>
 
-<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Avid Photographer 📸, and Passionate Gardener 🌱</h2>
+<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, with 8 years of experience in Automation and Manual Testing</h2>
 
 ### 🤝 Connect with me:
 
@@ -14,23 +14,14 @@
   <a href="https://www.linkedin.com/in/disha-bbhatt/">
     <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/linkedin.svg" alt="Disha Bhatt | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/instagram.svg" alt="Disha| Instagram" width="21px"/>
-  </a>
-  <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/whatsapp.png" alt="Disha| Whatsapp" width="21px"/>
-  </a>
 </p>
   
 ## 🥇 Certifications
 <p align="center">
   <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/ISTQB.png" alt="Disha| ISTQB" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/aws-cp.png" alt="Disha| AWS-CP" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/aws-dev.png" alt="Disha| AWS-DEV" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/aws-sa.png" alt="Disha| AWS-SA" width="100 px"/>
-   <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/ocpjp.png" alt="Disha| AWS-SA" width="100 px"/>
-    <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/safe.png" alt="Disha| AWS-SA" width="100 px"/>
-     <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/csm.webp" alt="Disha| AWS-SA" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/oracle-cp.png" alt="Disha| AWS-CP" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/safe.png" alt="Disha| AWS-SA" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/csm.webp" alt="Disha| AWS-SA" width="100 px"/>
 </p>
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
@@ -63,18 +54,12 @@ efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% inc
 in test coverage</b>
 
 
-## 💻 Framework WalkThrough
-[![Test Automation Framework Video](https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
-
 ## 💻 My Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dishabhatt0204&repo=Linux-Zero-to-Hero)](https://github.com/dishabhatt0204/Linux-Zero-to-Hero)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dishabhatt0204&repo=Linux-Zero-to-Hero)](https://github.com/dishabhatt0204/E2EAPIAutomationFramework_Disha)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dishabhatt0204&repo=AutomationFramework)](https://github.com/dishabhatt0204/AutomationFramework)
 
 [Automated Regression Testing Framework Java](https://github.com/dishabhatt0204/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
-
-[Automated Regression Testing Framework Python](https://github.com/dishabhatt0204/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python.
 
 
 ## 💼 Technical Skills
@@ -82,7 +67,6 @@ in test coverage</b>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -96,7 +80,7 @@ in test coverage</b>
 
 ## 📈 GitHub Stats 
 
-[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=dishabhatt0204)](https://github.com/dishabhatt0204)
+[![Disha's github stats](https://github-readme-stats.vercel.app/api?username=dishabhatt0204)](https://github.com/dishabhatt0204)
 
 
 ## Contact
@@ -104,13 +88,10 @@ in test coverage</b>
 <p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:dishabhatt92@gmail.com">dishabhatt92@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
+  <a href="https://www.linkedin.com/in/disha-bbhatt/">
     <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/linkedin.svg" alt="Disha Bhatt | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/instagram.svg" alt="Disha| Instagram" width="21px"/>
-  </a>
-  <a href="https://wa.link/8nquvx">
+  <a href="https://wa.me/9662276348">
     <img src="https://raw.githubusercontent.com/dishabhatt0204/dishabhatt0204.github.io/main/images/whatsapp.png" alt="Disha| Whatsapp" width="21px"/>
   </a>
 </p>
