@@ -86,7 +86,7 @@ in test coverage</b>
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:dishabhatt92@gmail.com">dishabhatt92@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:dishabhatt92@gmail.com">dishabhatt92@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/disha-bbhatt/">LinkedIn</a>.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/disha-bbhatt/">
